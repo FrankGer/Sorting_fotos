@@ -19,3 +19,4 @@ The idea is as follows:
 
 I will try to create some Python code to solve this task. Being a newbie in Python I'll be glad about comments or hints.
     
+7 years later problem solved.
